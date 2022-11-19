@@ -1,0 +1,1 @@
+https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-520e44b7-2b48-48f4-92e9-200d208425ac%3A%3Af813a142-3892-4387-9b3f-74a834309692&integrationID=19eaed61-3b0d-40ce-9881-9987e8acf82c&region=au-syd&serviceInstanceID=520e44b7-2b48-48f4-92e9-200d208425ac
